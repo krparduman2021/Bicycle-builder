@@ -3,7 +3,7 @@ import react from "@vitejs/plugin-react";
 import path from "path";
 
 export default defineConfig({
-  base: "/mini-project/",
+  base: "/Bicycle-builder/",
   plugins: [react()],
   resolve: {
     alias: {
